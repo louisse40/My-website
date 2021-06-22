@@ -1,0 +1,65 @@
+.bg3{
+	background-image: url(../images/bg2.jpg);
+	text-align: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.naviga{
+	text-align: center;
+	font-family: Times New Roman;
+	font-size: 60px;
+	background-color: black;
+}
+.education{
+	background-color: transparent;
+	color: white;
+}
+a{
+	color: white;
+	text-decoration: none;
+	background-color: transparent;
+	font-weight: bold;
+	margin: 0.5%;
+}
+a.active, .naviga a:hover{
+	background-color:transparent;
+	color: green;
+	width: 100%;
+}
+	
+
+		  h2{
+
+			color:white;
+			font-size: 50px;
+			font-family: Times New Rman;
+		}
+		  h3{
+
+			color:white;
+			font-size: 25px;
+			font-family: Times New Rman;
+		}
+		  h4{
+
+			color:white;
+			font-size: 50px;
+			font-family: Times New Rman;
+
+		}
+		 h5{
+
+			color:white;
+			font-size: 25px;
+			font-family: Times New Rman;
+		}
+		.vmgo{
+			column-count: 3;
+  			column-gap: 40px;
+  			column-rule: 1px solid lightblue;
+  		
+
+}
+img {
+  float: right; 
+margin-right: 20px; }
